@@ -62,7 +62,7 @@ Each model was tested on corrupted images to assess real-world performance degra
 | Example | Model | LR Image | SR Output | HR Ground Truth |
 |--------|--------|----------|-----------|-----------------|
 | 1 | SRGAN (64x64 -> 128x128) | ![](demo_imgs/low_resolution_1.png) | ![](demo_imgs/sr1.jpg) | ![](demo_imgs/high_resolution_1.jpg) |
-| 2 | SRWGAN (64x64 -> 128x128) | ![](demo_imgs/low_resolution_1.png) | ![](demo_imgs/sr2.jpg) | ![](demo_imgs/high_resolution_1.jpg) |
+| 2 | SRWGAN (64x64 -> 128x128) | ![](demo_imgs/low_resolution_2.png) | ![](demo_imgs/sr2.jpg) | ![](demo_imgs/high_resolution_2.jpg) |
 
 
 - *SRWGAN* generated the sharpest and most perceptually realistic images.
